@@ -2,7 +2,7 @@
 
 Um pouco sobre mim:
 
-- 👨‍💻 Estudadente de técnico em informática - Ulbra CSL
+- 👨‍💻 Estudante de técnico em informática - Ulbra CSL
 - 👨‍🎓 Terceiro Ano do ensino médio - Ulbra CSL
 - 📱 Aprendendo Programação Mobile
 - 🌎 Idiomas: Português fluente, Inglês fluente e iniciante em Mandarim
