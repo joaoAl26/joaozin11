@@ -12,6 +12,7 @@ Um pouco sobre mim:
 - 📧 E-Mail: joaoalbertosilvamartins@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaozin11&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviOliveira2001&show_progress=true&theme=dark)
 
 <div style="display: inline_block"> <br>
   <h1>Linguagens de Programação ou Marcação</h1>
