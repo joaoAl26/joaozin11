@@ -1,4 +1,4 @@
-## Olá, sou João Alberto, estudadente e iniciante em informática e TI.
+## Olá, sou João Alberto, estudante e iniciante em informática e TI.
 
 Um pouco sobre mim:
 
