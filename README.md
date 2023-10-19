@@ -18,8 +18,8 @@ Um pouco sobre mim:
   <h1>Experiências</h1>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Illustrator" height="30" width="40" src="https://aleen42.github.io/badges/src/illustrator.svg>
+  <img align="center" alt="Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Illustrator" height="30" width="60" src="https://aleen42.github.io/badges/src/illustrator.svg">
   
 </div>
 
