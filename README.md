@@ -1,9 +1,8 @@
-### Hi there 👋
 
 <!--
 **joaozin11/joaozin11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Olá, sou João Alberto, estudadente e iniciante em informática e TI.
+#### Olá, sou João Alberto, estudadente e iniciante em informática e TI.
 
 Um pouco sobre mim:
 
