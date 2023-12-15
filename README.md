@@ -4,7 +4,7 @@ Um pouco sobre mim:
 
 - 👨‍💻 Estudante de técnico em informática - Ulbra CSL
 - 👨‍🎓 Terceiro Ano do ensino médio - Ulbra CSL
-- 📱 Aprendendo Programação Mobile
+- 🌐 Aprendendo PHP
 - 🌎 Idiomas: Português fluente, Inglês fluente e iniciante em Mandarim
 - 🧐 Preferências em informática: Computação gráfica, programação web e banco de dados
 - 🤓 Hobbies e assuntos favoritos: Tecnologia, matemática, humanas, artes, música, games e leitura
